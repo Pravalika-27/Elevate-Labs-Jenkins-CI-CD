@@ -15,5 +15,3 @@ This repository contains a simple Node.js app with a Jenkins pipeline for CI/CD.
 - Push changes to this repo.
 - Check Jenkins dashboard at `<instance-ip>:8080`.
 - Access the app at `http://<instance-ip>`.
-
-## Please Visit screenshots directory
